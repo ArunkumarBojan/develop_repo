@@ -11,7 +11,7 @@ namespace ApplicationOnGit
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Git hub project");
+            Console.WriteLine("Hello world");
             Console.ReadLine();
         }
     }
